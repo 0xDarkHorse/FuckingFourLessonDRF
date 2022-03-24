@@ -1,0 +1,2 @@
+"# FuckingOneLessonDRF" 
+"# FuckingTwoLessonReact" 
